@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f4f5f6;
+}
+
+#feed .item {
+    margin: 10px;
+    width: 30%;
+    border: solid red 1px;
+}
+
+#feed .item img {
+    max-width: 100%;
+    width: 100%;
+}
